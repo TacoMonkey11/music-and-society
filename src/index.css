@@ -1,19 +1,37 @@
 body {
     background-color: #2e3440;
     font-family: "Tahoma", sans-serif;
+    color: #1b1f26;
+}
+
+.info-1 {
+    display: flex;
+}
+
+iframe {
+    margin-left: 30px;
+    margin-top: 20px;
 }
 
 .info-bubble {
-    border: 15px solid #4c566a;
+    border: 15px solid #3b4252;
     border-radius: 100px;
     background-color: #434c5e;
     font-weight: bold;
-    height: 500px;
-    width: 800px;
+    height: 400px;
+    width: 600px;
     text-align: center;
     padding: 5px;
+    box-shadow: 2px 2px 2px #1b1f26;
 }
 
-.main-page {
-    padding: 30px;
+footer {
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    right: 0;
+    height: 30px;
+    background-color: #434c5e;
 }
