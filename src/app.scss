@@ -1,0 +1,40 @@
+@import "node_modules/nord/src/sass/nord.scss";
+
+body {
+    background-color: $nord0;
+    color: $nord4;
+    font-family: "Source Code Pro", monospace;
+}
+
+nav {
+    background-color: $nord1;
+    color: $nord4;
+    padding: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+nav a {
+    color: $nord4;
+    text-decoration: none;
+    margin: 0 1rem;
+}
+
+nav a:hover {
+    color: $nord8;
+}
+
+.bubble {
+    background-color: $nord1;
+    color: $nord4;
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 1rem;
+    justify-content: center;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    font-size: 5em;
+}
