@@ -4,7 +4,7 @@
 
 <nav>
     <a href="/">Home</a>
-    <a href="/history">History</a>
+    <a href="#timeline">History</a>
 </nav>
 
 <slot></slot>
