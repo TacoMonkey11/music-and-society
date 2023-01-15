@@ -10,9 +10,8 @@
     } from 'svelte-vertical-timeline';
 
     const data = [
-        { time: `1960s`, content: `Lo-Fi in the 1960s is completely different from what we know today. Most music described as Lo-Fi during this time just meets the current dictionary definition of Low Fidelity, that being just a low quality recording. One of those bands meeting the criteria were the Beach Boys` },
-        { time: `1970s`, content: `Lo-Fi in the 1970s` },
-        { time: `1980s`, content: `Lo-Fi in the 1980s` },
+        { time: `1960s -> 1970s`, content: `Lo-Fi in the 1960s is completely different from what we know today. Most music described as Lo-Fi during this time just meets the current dictionary definition of Low Fidelity, that being just a low quality recording and instrumentation. One of those bands meeting the criteria were that Beach Boys. The Beach Boys would constantly inovate with new sounds that are very DIY.` },
+        { time: `1980s`, content: `Around this time, Lo-Fi itself was morphing and changing based on popular instruments. To capture this new` },
         { time: `1990s`, content: `Lo-Fi in the 1990s` },
         { time: `2000s`, content: `Lo-Fi in the 2000s` },
         { time: `2010s`, content: `Lo-Fi in the 2010s` },
@@ -47,5 +46,5 @@
     </Timeline>
 </div>
 <footer>
-    <p>Made By Spencer Al-Jbouri</p>
+	Made By Spencer Al-Jbouri
 </footer>
