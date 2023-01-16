@@ -1,10 +1,10 @@
 <script>
-    import '../app.scss';
+	import '../app.scss';
 </script>
 
 <nav>
-    <a href="/">Home</a>
-    <a href="#timeline">History</a>
+	<a href="/">Home</a>
+	<a href="#timeline">History</a>
 </nav>
 
-<slot></slot>
+<slot />

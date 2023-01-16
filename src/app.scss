@@ -1,72 +1,63 @@
-@import "node_modules/nord/src/sass/nord.scss";
+@import 'node_modules/nord/src/sass/nord.scss';
 
 body {
-    background-color: $nord0;
-    color: $nord4;
-    font-family: "Source Code Pro", monospace;
+	background-color: $nord0;
+	color: $nord4;
+	font-family: 'Source Code Pro', monospace;
 }
 
 nav {
-    background-color: $nord1;
-    color: $nord4;
-    padding: 1rem;
-    display: flex;
-    justify-content: center;
+	background-color: $nord1;
+	color: $nord4;
+	padding: 1rem;
+	display: flex;
+	justify-content: center;
 }
 
 nav a {
-    color: $nord4;
-    text-decoration: none;
-    margin: 0 1rem;
+	color: $nord4;
+	text-decoration: none;
+	margin: 0 1rem;
 }
 
 nav a:hover {
-    color: $nord8;
-}
-
-.bubble {
-    background-color: $nord1;
-    color: $nord4;
-    padding: 1rem;
-    margin: 1rem;
-    border-radius: 1rem;
-    justify-content: center;
+	color: $nord8;
 }
 
 .intro-text {
-    text-align: center;
-	font-size: 1.5em;
+	text-align: center;
+	font-size: 1.8rem;
 	padding-left: 20%;
-    padding-right: 20%;
+	padding-right: 20%;
 }
 
 iframe {
-    border: 0;
-    border-radius: 1rem;
-    margin: 1rem;
+	border: 0;
+	border-radius: 1rem;
+	margin: 1rem;
 }
 
 .livestream {
-    display: flex;
-    justify-content: center;
+	display: flex;
+	justify-content: center;
 }
 
 .title {
-    font-size: 5em;
-    text-align: center;
+	font-size: 5rem;
+	text-align: center;
 }
 
 footer {
-    position: fixed;
-    background-color: $nord1;
-    text-align: center;
-    color: $nord4;
-    padding: 0.5rem;
-    left: 0;
-    right: 0;
-    bottom: 0;
+	position: fixed;
+	background-color: $nord1;
+	text-align: center;
+	color: $nord4;
+	padding: 0.5rem;
+	left: 0;
+	right: 0;
+	bottom: 0;
 }
 
 html {
-   scroll-behavior: smooth
+	scroll-behavior: smooth;
 }
