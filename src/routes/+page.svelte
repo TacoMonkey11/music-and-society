@@ -14,18 +14,19 @@
 			time: `1960s`,
 			content: `Lo-Fi in the 1960s is completely different from what we know today. Most music described as Lo-Fi during this time just meets the current dictionary definition of Low Fidelity, that being just a low quality recording and instrumentation. One of those bands meeting the criteria were that Beach Boys. The Beach Boys would constantly innovate with new sounds that are very DIY.`,
 			image:
-				'https://cdn.britannica.com/27/198727-050-DE491706/The-Beach-Boys-Al-Jardine-Carl-Wilson.jpg'
+				'https://cdn.britannica.com/27/198727-050-DE491706/The-Beach-Boys-Al-Jardine-Carl-Wilson.jpg',
+			video: 'https://www.youtube-nocookie.com/embed/u90beUXTKwo?controls=0&amp;start=65&amp;end=88'
 		},
 		{
 			time: `1980s`,
 			content: `Around this time, Lo-Fi itself was morphing and changing based on popular instruments. To capture this new era of music, Bill Berger would create a new radio show named "Low-Fi" (The "w" would soon be lost) on WFMU 91.1 FM, the ~30 minute show was a collection of listener submitted music which was entirely homemade. The first song in the attached video is quite close to what you would consider Lo-Fi today. `,
-			video: 'https://www.youtube.com/embed/Cgh_siDjy0E',
+			video: 'https://www.youtube-nocookie.com/embed/Cgh_siDjy0E?controls=0&amp;end=123',
 			image: 'https://blogfiles.wfmu.org/IL/BergerImages/MaskBerger.jpg'
 		},
 		{
 			time: `2000s`,
 			content: `The turn of the century brought new technology, or to be a little more specific, it granted easy access to technology. The Lo-Fi genre exploded with music made with electronic instruments and samples. Around this time was when one of the most influential Lo-Fi songs would be produced for the 2006 anime: Samurai Champloo. Composed by the late Nujabes, it shook the entire Lo-Fi genre.`,
-			video: 'https://www.youtube.com/embed/Eq6EYcpWB_c',
+			video: 'https://www.youtube-nocookie.com/embed/Eq6EYcpWB_c?controls=0&amp;end=88',
 			image: 'https://i1.sndcdn.com/artworks-000038345409-0q8tnk-t500x500.jpg'
 		},
 		{
