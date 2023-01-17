@@ -66,7 +66,7 @@
 			<TimelineItem>
 				<TimelineOppositeContent slot="opposite-content">
 					<h1>{item.time}</h1>
-					<img src={item.image} style="width: 500px; height: auto; margin-bottom: 200px" />
+					<img src={item.image} style="width: 500px; height: auto; margin-bottom: 50px" />
 				</TimelineOppositeContent>
 				<TimelineSeparator>
 					<TimelineDot />
