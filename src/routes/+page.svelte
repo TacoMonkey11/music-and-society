@@ -64,7 +64,10 @@
 <div id="about" style="margin-top: 100px">
 	<h1 class="title">But wait... What exactly is Lo-Fi?</h1>
 	<p class="intro-text">
-		Lo-Fi can be easily be described as music that is low quality. But that's not really the full definition today. Today, Lo-Fi is a umbrella genre to describe other genres like Lo-Fi Hip Hop or Lo-Fi House. It is commonly made up of a simple drum beat and lots of repetitive loops/samples. Sampling is a major part of Lo-Fi, and it is what gives it its DIY sound and low barrier to entry. Many Lo-Fi tunes make use of jazz coords to give it a more relaxed vibe. 
+		Lo-Fi can be easily be described as music that is low quality. But that's not really the full definition today. Today, Lo-Fi is a umbrella genre to describe other genres like Lo-Fi Hip Hop or Lo-Fi House. It is commonly made up of a simple drum beat and lots of repetitive loops/samples. Sampling is a major part of Lo-Fi, and it is what gives it its DIY sound and low barrier to entry. Many Lo-Fi tunes make use of jazz coords to give it a more relaxed vibe.
+	</p>
+	<h1 class="title" style="margin: 100px">Is this the same music I use to study?</h1>
+	<p class="intro-text">It's not specifically Lo-Fi music that people want to study to. Many people enjoy a slow instrumental tune in the background. Before Lo-Fi, certain classical music had taken the role as studying music, but Lo-Fi seems to fit the bill perfectly and has taken the top spot as study music. </p>
 </div>
 <div id="timeline">
 	<h1 class="title">Simple History</h1>
