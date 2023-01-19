@@ -35,7 +35,6 @@
 			video: 'https://www.youtube-nocookie.com/embed/5AXlo8MzqoM?controls=0',
 			image: 'https://lh3.googleusercontent.com/bzQGw1aGEkHb_cg09JtbnzTzhDdllGX4oEUhAEhaiBABz-h-pywkW4iLtwrmz4nZVt9-BsIIWzglQtBQPY0eTZvUy8rVMzfvh7f0HkNFZ-f173KsJQw=v0-s1050'
 		},
-		{ time: `2020s`, content: `Lo-Fi in the 2020s` }
 	];
 </script>
 
@@ -62,6 +61,11 @@
 	available. This livestream in particular plays Lo-Fi Hip Hop, one of the more popular sub-genres
 	of Lo-Fi, and what this display focuses more on.
 </p>
+<div id="about" style="margin-top: 100px">
+	<h1 class="title">But wait... What exactly is Lo-Fi?</h1>
+	<p class="intro-text">
+		Lo-Fi can be easily be described as music that is low quality. But that's not really the full definition today. Today, Lo-Fi is a umbrella genre to describe other genres like Lo-Fi Hip Hop or Lo-Fi House. It is commonly made up of a simple drum beat and lots of repetitive loops/samples. Sampling is a major part of Lo-Fi, and it is what gives it its DIY sound and low barrier to entry. Many Lo-Fi tunes make use of jazz coords to give it a more relaxed vibe. 
+</div>
 <div id="timeline">
 	<h1 class="title">Simple History</h1>
 	<Timeline position="alternate">
