@@ -12,7 +12,7 @@
 	const data = [
 		{
 			time: `1960s`,
-			content: `Lo-Fi in the 1960s is completely different from what we know today. Most music described as Lo-Fi during this time just meets the current dictionary definition of Low Fidelity, that being just a low quality recording and instrumentation. One of those bands meeting the criteria were that Beach Boys. The Beach Boys would constantly innovate with new sounds that are very DIY.`,
+			content: `Lo-Fi in the 1960s is completely different from what we know today. Most music described as Lo-Fi during this time just meets the current dictionary definition of Low Fidelity, that being just a low quality recording and instrumentation. One of those bands meeting the criteria were that Beach Boys. The Beach Boys would constantly innovate with new sounds that are very DIY. Much of their work is very similar to other bands of the era, this is a common theme among Lo-Fi due to it's `,
 			image:
 				'https://cdn.britannica.com/27/198727-050-DE491706/The-Beach-Boys-Al-Jardine-Carl-Wilson.jpg',
 			video: 'https://www.youtube-nocookie.com/embed/u90beUXTKwo?controls=0&amp;start=65&amp;end=88'
@@ -25,13 +25,13 @@
 		},
 		{
 			time: `2000s`,
-			content: `The turn of the century brought new technology, or to be a little more specific, it granted easy access to technology. The Lo-Fi genre exploded with music made with electronic instruments and samples. Around this time was when one of the most influential Lo-Fi songs would be produced for the 2006 anime: Samurai Champloo. Composed by the late Nujabes, it shook the entire Lo-Fi genre.`,
+			content: `The turn of the century brought new technology, or to be a little more specific, it granted easy access to technology. The Lo-Fi genre exploded with music made with electronic instruments and samples. Around this time was when one of the most influential Lo-Fi songs would be produced for the 2006 anime: Samurai Champloo. Composed by the late Nujabes, it shook the entire Lo-Fi genre. What made Nujabes stand out from the crowd of Lo-Fi artists was his use of jazz chords. Along with other samples, Nujabes took new technology and utilized it in a way that no one had ever seen before.`,
 			video: 'https://www.youtube-nocookie.com/embed/Eq6EYcpWB_c?controls=0&amp;end=88',
 			image: 'https://i1.sndcdn.com/artworks-000038345409-0q8tnk-t500x500.jpg'
 		},
 		{
 			time: `2010s`,
-			content: `This is when the popularity of Lo-Fi really exploded. With the introduction of youtube livestreams, tons of channels started 24/7 radios on Youtube. Tons of new Lo-Fi channels appeared, including on of the most popular channels today: ChilledCow (Know known as Lofi Girl). These channels would advertise their content as beats to study to; in that regard, they weren't really wrong. Many people enjoy listening to Lo-Fi music whilst studying, and science agrees.`,
+			content: `This is when the popularity of Lo-Fi really exploded. With the introduction of youtube livestreams, tons of channels started 24/7 radios on Youtube. Tons of new Lo-Fi channels appeared, including on of the most popular channels today: ChilledCow (Know known as Lofi Girl). These channels would advertise their content as beats to study to; in that regard, they weren't really wrong. Many people enjoy listening to Lo-Fi music whilst studying, and science agrees. Many people prefer to listen to slow, easily predictable music.`,
 			video: 'https://www.youtube-nocookie.com/embed/5AXlo8MzqoM?controls=0',
 			image: 'https://lh3.googleusercontent.com/bzQGw1aGEkHb_cg09JtbnzTzhDdllGX4oEUhAEhaiBABz-h-pywkW4iLtwrmz4nZVt9-BsIIWzglQtBQPY0eTZvUy8rVMzfvh7f0HkNFZ-f173KsJQw=v0-s1050'
 		},
@@ -94,14 +94,15 @@
 						/>
 					{/if}
 					{#if data.indexOf(item) % 2 === 0}
-						<h3 style="margin-right: 40%">{item.content}</h3>
+						<h3 style="margin-right: 30%">{item.content}</h3>
 					{/if}
 					{#if data.indexOf(item) % 2 === 1}
-						<h3 style="margin-left: 40%">{item.content}</h3>
+						<h3 style="margin-left: 30%">{item.content}</h3>
 					{/if}
 				</TimelineContent>
 			</TimelineItem>
 		{/each}
 	</Timeline>
 </div>
+
 <footer>Made By Spencer Al-Jbouri</footer>
